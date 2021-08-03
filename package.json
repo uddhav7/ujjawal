@@ -1,0 +1,20 @@
+{
+  "name": "bajajfinance",
+  "version": "1.0.0",
+  "description": "Bajaj Health Programming Challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ExpressJs",
+    "Nodejs"
+  ],
+  "author": "Uddhav Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
